@@ -1,35 +1,22 @@
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
+        n=len(nums)
+        count0,count1,count2=0,0,0
+        #traversal
+        for i in range(0,n):
+            if nums[i]==0: count0+=1
+            elif nums[i]==1: count1+=1
+            else: count2+=1
 
-        n = len(nums)
+        inx=0
 
-        countRed = 0
-        countWhite = 0
-        countBlue = 0
+        for i in range(0,count0):
+            nums[inx]=0
+            inx+=1
+        for i in range(0,count1):
+            nums[inx]=1
+            inx+=1
+        for i in range(0,count2):
+            nums[inx]=2
+            inx+=1
 
-        # Count 0s, 1s, and 2s
-        for i in range(n):
-            if nums[i] == 0:
-                countRed += 1
-            elif nums[i] == 1:
-                countWhite += 1
-            else:
-                countBlue += 1
-
-        y = 0
-
-        # Fill 0s
-        for i in range(countRed):
-            nums[y] = 0
-            y += 1
-
-        # Fill 1s
-        for i in range(countWhite):
-            nums[y] = 1
-            y += 1
-
-        # Fill 2s
-        for i in range(countBlue):
-            nums[y] = 2
-            y += 1
-        
