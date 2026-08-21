@@ -6,9 +6,10 @@ class Solution:
         for num in nums:
             if num == 1:
                 count += 1
-                max_count = max(max_count, count)
+                # max_count = max(max_count, count)
             else:
+                max_count = max(max_count, count)
                 count = 0
 
-        return max_count
+        return max(max_count,count)
         
