@@ -9,11 +9,10 @@ class Solution:
             count[fruits[right]]=count.get(fruits[right],0) + 1
 
             if len(count)>2:
-                while len(count)>2:
-                    count[fruits[left]]-=1
-                    if count[fruits[left]]==0:
-                        del count[fruits[left]]
-                    left+=1
+                count[fruits[left]]-=1
+                if count[fruits[left]]==0:
+                    del count[fruits[left]]
+                left+=1
             if len(count)<=2:
                 maxi=max(maxi, right-left+1)
 
