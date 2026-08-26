@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AGupta-23/DSA-Practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AGupta-23/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/AGupta-23/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/AGupta-23/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/AGupta-23/DSA-Practice/tree/master/0904-fruit-into-baskets) |
@@ -70,10 +71,27 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 | [0904-fruit-into-baskets](https://github.com/AGupta-23/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AGupta-23/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
