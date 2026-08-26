@@ -3,27 +3,19 @@ from collections import deque
 class Solution:
     def maxSlidingWindow(self, nums, k):
         n = len(nums)
-        result = [None] * (n - k + 1)
+        dq=deque()
+        result=[]
 
-        dq = deque()
-        result_index = 0
-
-        for i in range(n):
-
-            # 1. Remove elements outside the window
-            if dq and dq[0] <= i - k:
+        for i in range(0,n):
+            #1. Remove all that are outside window range in dq
+            if dq and dq[0]<=i-k:
                 dq.popleft()
-
-            # 2. Remove smaller elements from the back
-            while dq and nums[dq[-1]] <= nums[i]:
+            #2. Remove smaller unwanted elements in deque
+            while dq and nums[dq[-1]]<nums[i]:
                 dq.pop()
-
-            # 3. Add current index
+            #3. append the ith index in dq 
             dq.append(i)
-
-            # 4. Window is ready
-            if i >= k - 1:
-                result[result_index] = nums[dq[0]]
-                result_index += 1
-
+            #4. if window formed - sized k - add the dq.front indx value into element in result
+            if i>=k-1:
+                result.append(nums[dq[0]])
         return result
