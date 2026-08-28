@@ -106,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/AGupta-23/DSA-Practice/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
