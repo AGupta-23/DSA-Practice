@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/AGupta-23/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AGupta-23/DSA-Practice/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AGupta-23/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AGupta-23/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AGupta-23/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AGupta-23/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AGupta-23/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/AGupta-23/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Quicksort
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -125,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
