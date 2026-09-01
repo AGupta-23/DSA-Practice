@@ -21,7 +21,7 @@ class Solution:
         for num in nums:
             if num == candidate:
                 count+=1
-            if count > n//2:
-                return num
+        if count > n//2:
+            return candidate
 
         
