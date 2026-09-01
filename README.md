@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/AGupta-23/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AGupta-23/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AGupta-23/DSA-Practice/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 ## Quicksort
 |  |
 | ------- |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AGupta-23/DSA-Practice/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
