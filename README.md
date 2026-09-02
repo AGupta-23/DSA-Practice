@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/AGupta-23/DSA-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/AGupta-23/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AGupta-23/DSA-Practice/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AGupta-23/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AGupta-23/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AGupta-23/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AGupta-23/DSA-Practice/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AGupta-23/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
