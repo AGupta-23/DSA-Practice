@@ -5,8 +5,14 @@ class Solution:
         #this will contain sorted form of anagrams as keys and actual words as values
 
         for word in strs:
-            sorted_word = sorted(word)  #formed as list
-            key = "".join(sorted_word)  #now joined as string form
+            
+            count = [0] * 26 #created a count list with at most 26 numbers
+
+            for char in word:
+                index = ord(char) - ord('a')
+                count[index] +=1
+
+            key = tuple(count)
 
             if key not in dict:
                 dict[key]=[]
