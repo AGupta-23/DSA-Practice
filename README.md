@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/AGupta-23/DSA-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AGupta-23/DSA-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AGupta-23/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AGupta-23/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/AGupta-23/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AGupta-23/DSA-Practice/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/AGupta-23/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AGupta-23/DSA-Practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AGupta-23/DSA-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AGupta-23/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
 ## Math
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/AGupta-23/DSA-Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AGupta-23/DSA-Practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AGupta-23/DSA-Practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
