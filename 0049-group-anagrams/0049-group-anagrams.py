@@ -1,23 +1,24 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-
-        dict = {}
-        #this will contain sorted form of anagrams as keys and actual words as values
+        
+        groups = {}
 
         for word in strs:
             
-            count = [0] * 26 #created a count list with at most 26 numbers
+            # Count frequency of each character
+            count = [0] * 26
 
             for char in word:
                 index = ord(char) - ord('a')
-                count[index] +=1
+                count[index] += 1
 
+            # Lists cannot be dictionary keys,
+            # so convert it into a tuple
             key = tuple(count)
 
-            if key not in dict:
-                dict[key]=[]
+            if key not in groups:
+                groups[key] = []
 
-            dict[key].append(word)
+            groups[key].append(word)
 
-        groups = list(dict.values())
-        return groups
+        return list(groups.values())
