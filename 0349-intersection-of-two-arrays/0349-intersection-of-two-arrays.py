@@ -3,11 +3,11 @@ class Solution:
 
         n = len(nums1)
         m = len(nums2)
-        ans = set()
+        ans = []
 
-        for i in range(0,n):
-            if nums1[i] in nums2:
-                ans.add(nums1[i])
-        return list(ans)
+        for x in nums1:
+            if x in nums2 and x not in ans:
+                ans.append(x)
+        return ans
                 
         
