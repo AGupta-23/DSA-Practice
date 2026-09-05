@@ -1,22 +1,28 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
 
-        map1 = {}
-        map2 = {}
+        # Maps characters from s -> t
+        map_s = {}
 
-        for i in range(0, len(s)):
-            x = s[i]
-            y = t[i]
+        # Maps characters from t -> s
+        map_t = {}
 
-            if x in map1 and map1[x] != y:
+        for i in range(len(s)):
+
+            # Current characters
+            a = s[i]
+            b = t[i]
+
+            # Check s -> t mapping
+            if a in map_s and map_s[a] != b:
                 return False
-            if y in map2 and map2[y] != x:
+
+            # Check t -> s mapping
+            if b in map_t and map_t[b] != a:
                 return False
 
-            map1[x]=y
-            map2[y]=x
+            # Create the mappings
+            map_s[a] = b
+            map_t[b] = a
 
-            # i+=1
         return True
-                
-        
