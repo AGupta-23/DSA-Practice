@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/AGupta-23/DSA-Practice/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/AGupta-23/DSA-Practice/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/AGupta-23/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/AGupta-23/DSA-Practice/tree/master/0205-isomorphic-strings) |
