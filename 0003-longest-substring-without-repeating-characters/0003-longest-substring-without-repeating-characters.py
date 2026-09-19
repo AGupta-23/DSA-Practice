@@ -8,9 +8,7 @@ class Solution:
             hash_set = set()
             for j in range(i,n):
                 if s[j] in hash_set: break
-                else:
-                    hash_set.add(s[j])
-                    windowLen = j-i+1
-                    maxi = max(maxi, windowLen)
+                hash_set.add(s[j])
+                maxi = max(maxi, j-i+1)
         return maxi
         
