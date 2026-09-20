@@ -3,17 +3,24 @@ class Solution:
         n = len(s1)
         m = len(s2)
 
-        map1 = {}
+        freq1 = [0] * 26
+        freq2 = [0] * 26
+
         for char in s1:
-            map1[char] = map1.get(char,0) + 1
+            freq1[ord(char) - ord('a')] += 1
+        
+        l = 0
+        for r in range(0,m):
+            freq2[ord(s2[r]) - ord('a')] += 1
+            
+            if r-l+1 > len(s1):
+                freq2[ord(s2[l]) - ord('a')] -= 1
+                l+=1
 
-        for i in range(0,m-n+1):
-            map2 = {}
-            for j in range(i,i+n):
-                map2[s2[j]] = map2.get(s2[j],0) + 1
-
-                if len(map1) == len(map2):
-                    if map1 == map2:
-                        return True
+            if (r-l+1) == len(s1):
+                if freq1 == freq2:
+                    return True
         return False
+
+
 
