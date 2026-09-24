@@ -1,17 +1,18 @@
 class Solution:
     def numberOfSubstrings(self, s: str) -> int:
         n = len(s)
-        hasharray = [0] * 3
+        hashset = {}
         count = 0
         l = 0
         for r in range(0,n):
-            hasharray[ (ord(s[r]) - ord('a')) ] += 1
+            hashset[s[r]] = hashset.get(s[r], 0) + 1
+            while len(hashset) == 3:
+                count += n-r
 
-            while hasharray[0]>0 and hasharray[1]>0 and hasharray[2]>0 :
-                count += (n-r)
-                
-                hasharray[ord(s[l]) - ord('a')] -= 1
+                hashset[s[l]] -= 1
+                if hashset[s[l]] == 0: del hashset[s[l]]
                 l+=1
+
         return count
 
         
