@@ -1,8 +1,5 @@
 # The isBadVersion API is already defined for you.
-def isBadVersion(version: int) -> bool:
-    if version >= bad:
-        return True
-    return False
+# def isBadVersion(version: int) -> bool:
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
@@ -18,7 +15,5 @@ class Solution:
             else:
                 low = mid + 1
         return lb
-
-            # if nums[mid] >= bad:
 
         
