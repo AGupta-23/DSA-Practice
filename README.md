@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AGupta-23/DSA-Practice/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AGupta-23/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AGupta-23/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/AGupta-23/DSA-Practice/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/AGupta-23/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AGupta-23/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/AGupta-23/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AGupta-23/DSA-Practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AGupta-23/DSA-Practice/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
