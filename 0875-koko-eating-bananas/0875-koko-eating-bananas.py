@@ -1,4 +1,9 @@
 class Solution:
+    def func(self,piles,h,mid):
+        hours = 0
+        for pile in piles:
+            hours += (pile + mid - 1) // mid
+        if hours<=h: return True
     def minEatingSpeed(self, piles: list[int], h: int) -> int:
         l = 1
         h_speed = max(piles)
@@ -6,12 +11,7 @@ class Solution:
         while l <= h_speed:
             mid = (l + h_speed) // 2
 
-            hours = 0
-
-            for pile in piles:
-                hours += (pile + mid - 1) // mid
-
-            if hours <= h:
+            if self.func(piles,h,mid):
                 # mid works, but maybe a smaller speed also works
                 h_speed = mid - 1
             else:
