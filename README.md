@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AGupta-23/DSA-Practice/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/AGupta-23/DSA-Practice/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AGupta-23/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/AGupta-23/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AGupta-23/DSA-Practice/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AGupta-23/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AGupta-23/DSA-Practice/tree/master/0992-subarrays-with-k-different-integers) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/AGupta-23/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/AGupta-23/DSA-Practice/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AGupta-23/DSA-Practice/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/AGupta-23/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AGupta-23/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1095-find-in-mountain-array](https://github.com/AGupta-23/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
