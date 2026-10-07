@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/AGupta-23/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AGupta-23/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AGupta-23/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AGupta-23/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/AGupta-23/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AGupta-23/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AGupta-23/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1095-find-in-mountain-array](https://github.com/AGupta-23/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AGupta-23/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AGupta-23/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
