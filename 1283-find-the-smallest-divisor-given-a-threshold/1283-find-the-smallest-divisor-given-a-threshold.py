@@ -1,11 +1,11 @@
 class Solution:
-    def isValid(self, n, arr , mid, threshold):
+    def isValid(self, n, nums , mid, threshold):
         sum = 0
-        for i in range(0,n):
-            if arr[i] % mid == 0: 
-                x = arr[i]//mid
-            elif arr[i] % mid != 0:
-                x = (arr[i]//mid) + 1
+        for num in nums:
+            if num % mid == 0: 
+                x = num//mid
+            elif num % mid != 0:
+                x = (num//mid) + 1
             
             if (sum + x)<= threshold:
                 sum += x
