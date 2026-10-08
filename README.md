@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AGupta-23/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AGupta-23/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AGupta-23/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1672-richest-customer-wealth](https://github.com/AGupta-23/DSA-Practice/tree/master/1672-richest-customer-wealth) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AGupta-23/DSA-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AGupta-23/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AGupta-23/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AGupta-23/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AGupta-23/DSA-Practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0658-find-k-closest-elements](https://github.com/AGupta-23/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/AGupta-23/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1552-magnetic-force-between-two-balls](https://github.com/AGupta-23/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 ## Quicksort
 |  |
 | ------- |
