@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1095-find-in-mountain-array](https://github.com/AGupta-23/DSA-Practice/tree/master/1095-find-in-mountain-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AGupta-23/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AGupta-23/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AGupta-23/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AGupta-23/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AGupta-23/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AGupta-23/DSA-Practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AGupta-23/DSA-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AGupta-23/DSA-Practice/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AGupta-23/DSA-Practice/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/AGupta-23/DSA-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Memoization
 |  |
 | ------- |
