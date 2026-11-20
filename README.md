@@ -347,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0981-time-based-key-value-store](https://github.com/AGupta-23/DSA-Practice/tree/master/0981-time-based-key-value-store) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/AGupta-23/DSA-Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
